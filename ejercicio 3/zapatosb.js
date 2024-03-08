@@ -1,3 +1,4 @@
+
 let precios = {
     clásicos: 500000,
     running: 800000,
